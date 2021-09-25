@@ -1,0 +1,35 @@
+This code is written is C
+It was created using windows Visual Studio 2017
+name - Ivan Golovine
+ID - 500813431
+
+Features that work
+Texture mapped submarine Plus Periscope view
+Collision Dectection with the Terrain
+Collision with objects(Blobs)
+Collision with the Enemy Sub
+Texture mapped Floor
+The Enemy submarine stays within bounds
+Collision detection with the rocket fired from the submarine
+Help Button F1
+
+Extra feature added
+-Boundry boxes outline around the Submarine, Enemy Submarine and one of the Blobs to make it easier to test
+
+Controls
+To start the game start by moving the submarine.
+To increase the speed forward press <f> key.
+To increase the speed backwards press <b> key.
+To stop the submarine from moving press <v> key,
+To raise the submarine upwards press the <w> key.
+To lower the submarine press the <s> key.
+To rotate the submarine left press the <a> key.
+To rotate the submarine right press the <d> key.
+To shoot a rocket from the submarine press the <e> key.
+To switch into the pariscope mode press the <f2> key.
+To rotate the pariscope view and model use the <n> and <m> keys.
+To move the pariscope up and down use the <z> and <x> keys.
+To zoom in and out in the periscope view use the arrow <up> and <down> keys.	
+
+Note = The boundry box only appears when the f key is pressed to make the submarine mobile
+     = The death of the Submarine/Enemy Sub via crashing randomly moves it in the scene
